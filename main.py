@@ -5,7 +5,6 @@ import datetime
 import numpy as np
 import cv2
 import pandas as pd
-import matplotlib.pyplot as plt
 
 from werkzeug.utils import secure_filename, redirect
 
